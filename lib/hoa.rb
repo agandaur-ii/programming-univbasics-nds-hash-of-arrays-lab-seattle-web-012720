@@ -14,5 +14,3 @@ def add_character(show, name)
    
   return show
 end
-
-puts add_character(BASE_HOA[:chipmunks], "Test")
